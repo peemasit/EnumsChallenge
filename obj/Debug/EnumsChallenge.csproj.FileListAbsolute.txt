@@ -1,0 +1,7 @@
+C:\Users\peema\source\repos\EnumsChallenge\EnumsChallenge\bin\Debug\EnumsChallenge.exe.config
+C:\Users\peema\source\repos\EnumsChallenge\EnumsChallenge\bin\Debug\EnumsChallenge.exe
+C:\Users\peema\source\repos\EnumsChallenge\EnumsChallenge\bin\Debug\EnumsChallenge.pdb
+C:\Users\peema\source\repos\EnumsChallenge\EnumsChallenge\obj\Debug\EnumsChallenge.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\EnumsChallenge\EnumsChallenge\obj\Debug\EnumsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\EnumsChallenge\EnumsChallenge\obj\Debug\EnumsChallenge.exe
+C:\Users\peema\source\repos\EnumsChallenge\EnumsChallenge\obj\Debug\EnumsChallenge.pdb
